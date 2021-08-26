@@ -6,7 +6,7 @@ import (
 	"time"
 )
 
-//select每一个case 只能判断io select中的 break 退出的是当前的 select
+//select每一个case 只能判断io， select中的 break 退出的是当前的 select
 
 func main() {
 
