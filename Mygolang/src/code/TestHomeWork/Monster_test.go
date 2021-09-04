@@ -1,5 +1,10 @@
 package TestHomeWork
 
+
+//测试文件必须以XXXXXX_test.go命名
+//测试的方法必须是Test_xxxxxx()来命名
+
+
 import (
 	"testing"
 )
